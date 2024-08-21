@@ -146,7 +146,8 @@
 .sec1_footer_headind h2 {
     color: #cde0e2;
     font-size: 20px;
-
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .icon i {
@@ -595,7 +596,7 @@
 }
 
 .sec7_lower_heading_con2 i {
-    margin-right: 46px;
+    margin-right: 10px;
 }
 
 .sec7_vedios {
@@ -680,6 +681,13 @@
     margin: 10px;
     color: #5cd2b8;
 }
+
+.sec7_lower_heading_con2{
+    padding-right: 40px;
+}
+
+
+
 
 /*< start section8*/
 .sec8_part1 .sec8_heading {
